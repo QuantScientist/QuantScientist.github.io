@@ -78,10 +78,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "QuantScientist"
+  avatar           : "/assets/img/badge_1.png"
+  bio              : "Data Scientist."
+  location         : "Tel Aviv"
   email            :
   uri              :
   bitbucket        :
@@ -90,19 +90,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "QuantScientist"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "QuantScientist"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "QuantScientist"
   vine             :
   weibo            :
   xing             :
